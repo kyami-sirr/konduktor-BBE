@@ -203,8 +203,3 @@ Menghasilkan `Gambar_4-7_resistansi_sama.png` (300 dpi).
 - Data harga logam adalah nilai pembanding relatif, bukan hasil survei pasar.
 
 ---
-
-## 8. Lisensi
-
-Dibuat untuk keperluan tugas perkuliahan (Project Based Learning). Bebas dipakai ulang untuk
-pembelajaran dengan menyebutkan sumbernya.
