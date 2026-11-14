@@ -1,0 +1,16 @@
+# Solusi biner FEMM (dibangkitkan ulang oleh busbar_femm.lua)
+*.ans
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Sementara
+*.tmp
+~$*
