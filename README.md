@@ -1,6 +1,7 @@
 # Konduktor BBE — Studi Komparatif Busbar Tembaga, Aluminium, dan AAAC
 
-Muhammad Yasir Assafa (257002111102) Kelas D
+Muhammad Yasir Assafa (257002111102) Kelas D.
+
 Analisis perbandingan performa tiga material konduktor listrik (**Tembaga**, **Aluminium**, **AAAC**)
 pada busbar berpenampang persegi 100 mm × 10 mm yang dialiri arus 500 A pada frekuensi 50 Hz.
 
